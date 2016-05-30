@@ -108,7 +108,7 @@ public class ItemDetailFragment extends Fragment implements RemindableWithId {
 
 ```
 
-### PersistanceMode
+### Persistance Modes
 
 Reminder can be configured to use SharedPreferences or SQLite as persistence modes. SQLite is the default mode. This is an example of how to configure it to use SharedPreferences:
 
