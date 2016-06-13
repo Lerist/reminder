@@ -1,5 +1,7 @@
 # reminder
-This android library lets you persist the state of your views to recover them later in order to display old data until fresh data arrives.
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-reminder-green.svg?style=true)](https://android-arsenal.com/details/1/3709)
+
+reminder lets you persist the state of your views to recover them later in order to display old data until fresh data arrives.
 
 Usage
 --------
